@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "versionCode": 4,
-  "minimumVersionCode": 0,
+  "version": "0.7.0",
+  "versionCode": 5,
+  "minimumVersionCode": 4,
   "forceUpdate": false,
-  "publishedAt": "2026-07-22T07:52:42Z",
-  "downloadUrl": "https://github.com/dahsameer/litter/releases/download/v0.2.0/litter_0.2.0_4.apk",
-  "apkSize": 2549936,
-  "releaseNotes": "fixed self updater\r\nfixed release build\r\nrestructured settings page",
-  "sha256": "3fb33f2ad23aceadcb34f5c0185277622a97ddc3978b2cd8bae0a649902a178f"
+  "publishedAt": "2026-07-22T19:07:26Z",
+  "downloadUrl": "https://github.com/dahsameer/litter/releases/download/v0.7.0/litter_0.7.0_5.apk",
+  "apkSize": 2716968,
+  "releaseNotes": "added login\r\nadded authenticated features\r\nmodified user profile\r\nbetter story details\r\nenhanced reading screen",
+  "sha256": "2d8d6a650979eb31fe1d4053dc57299726d91218061e744791bac487d884af9c"
 }
