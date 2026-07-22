@@ -578,7 +578,7 @@
         <div class="notes">${renderNotes(release.releaseNotes || '')}</div>
         <div class="download-row">
           ${release.downloadUrl
-            ? `<a class="dl-btn" href="${release.downloadUrl}">Download APK</a><span class="filesize">${formatBytes(release.apkSize)}</span>`
+            ? `<a class="dl-btn" href="${release.downloadUrl}" rel="nofollow">Download APK</a><span class="filesize">${formatBytes(release.apkSize)}</span>`
             : `<span class="filesize">No APK attached to this release</span>`}
         </div>
       `;
@@ -607,7 +607,7 @@
         }
 
         latestEl.innerHTML = latest.downloadUrl
-          ? `<a class="btn" href="${latest.downloadUrl}">Download ${escapeHtml(latest.version || 'Latest')}</a>
+          ? `<a class="btn" rel="nofollow" href="${latest.downloadUrl}">Download ${escapeHtml(latest.version || 'Latest')}</a>
              <span class="meta">${formatBytes(latest.apkSize)} · ${formatDate(latest.publishedAt)}</span>`
           : `<span class="status">Latest release (${escapeHtml(latest.version || 'Unknown')}) has no APK attached.</span>`;
 
