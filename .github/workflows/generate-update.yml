@@ -2,7 +2,7 @@ name: Generate release metadata
 
 on:
   release:
-    types: [published]
+    types: [created, published, prereleased]
   workflow_dispatch:
 
 permissions:
