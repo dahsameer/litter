@@ -1,0 +1,24 @@
+{
+  "version": "0.0.2",
+  "versionCode": 2,
+  "minimumVersionCode": 0,
+  "forceUpdate": false,
+  "publishedAt": "2026-07-22T04:18:36Z",
+  "downloadUrl": "https://github.com/dahsameer/litter/releases/download/v0.0.2/litter_0.0.2.apk",
+  "apkSize": 2550928,
+  "releaseNotes": "fixed app\r\nfixed updater",
+  "sha256": "b2c4ec7e4e01f5ab09e3ebd7e6e6da8615dad5529fcffd56a1de264d5ff5b340",
+  "releases": [
+    {
+      "version": "0.0.2",
+      "versionCode": 2,
+      "publishedAt": "2026-07-22T04:18:36Z",
+      "downloadUrl": "https://github.com/dahsameer/litter/releases/download/v0.0.2/litter_0.0.2.apk",
+      "releaseNotes": "fixed app\r\nfixed updater",
+      "apkSize": 2550928,
+      "prerelease": false,
+      "draft": false,
+      "sha256": "b2c4ec7e4e01f5ab09e3ebd7e6e6da8615dad5529fcffd56a1de264d5ff5b340"
+    }
+  ]
+}

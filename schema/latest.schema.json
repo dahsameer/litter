@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Litter latest release metadata",
+  "type": "object",
+  "required": [
+    "version",
+    "versionCode",
+    "minimumVersionCode",
+    "forceUpdate",
+    "publishedAt",
+    "downloadUrl",
+    "apkSize",
+    "releaseNotes",
+    "sha256"
+  ],
+  "properties": {
+    "version": { "type": "string" },
+    "versionCode": { "type": "integer" },
+    "minimumVersionCode": { "type": "integer" },
+    "forceUpdate": { "type": "boolean" },
+    "publishedAt": { "type": "string" },
+    "downloadUrl": { "type": "string" },
+    "apkSize": { "type": "integer" },
+    "releaseNotes": { "type": "string" },
+    "sha256": { "type": "string" }
+  },
+  "additionalProperties": false
+}
