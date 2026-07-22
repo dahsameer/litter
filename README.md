@@ -21,6 +21,13 @@ The workflow in [.github/workflows/generate-update.yml](.github/workflows/genera
 
 Enable GitHub Pages for the repository and publish from the `gh-pages` branch root.
 
+1. Go to the repository Settings → Pages.
+2. Select the `gh-pages` branch.
+3. Choose the root folder (`/`) as the publishing source.
+4. Save and wait for the site to become available.
+
+The workflow writes generated site files to `gh-pages`, so you do not need to commit these outputs to `main`.
+
 ## Files
 
 - [index.html](index.html) — the static release homepage.
