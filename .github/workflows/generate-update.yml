@@ -31,7 +31,6 @@ jobs:
           mkdir -p /tmp/site-output
           python scripts/generate_update.py --output-dir /tmp/site-output
           cp index.html /tmp/site-output/
-          cp CNAME /tmp/site-output/ || true
 
       - name: Deploy release site to gh-pages
         uses: peaceiris/actions-gh-pages@v4
