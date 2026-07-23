@@ -1,5 +1,16 @@
 [
   {
+    "version": "0.7.0",
+    "versionCode": 5,
+    "publishedAt": "2026-07-22T19:07:26Z",
+    "downloadUrl": "https://github.com/dahsameer/litter/releases/download/v0.7.0/litter_0.7.0_5.apk",
+    "releaseNotes": "added login\r\nadded authenticated features\r\nmodified user profile\r\nbetter story details\r\nenhanced reading screen",
+    "apkSize": 2716968,
+    "prerelease": false,
+    "draft": false,
+    "sha256": "2d8d6a650979eb31fe1d4053dc57299726d91218061e744791bac487d884af9c"
+  },
+  {
     "version": "0.2.0",
     "versionCode": 4,
     "publishedAt": "2026-07-22T07:52:42Z",

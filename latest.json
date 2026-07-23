@@ -1,11 +1,11 @@
 {
-  "version": "0.7.0",
-  "versionCode": 5,
-  "minimumVersionCode": 4,
+  "version": "0.8.0",
+  "versionCode": 6,
+  "minimumVersionCode": 5,
   "forceUpdate": false,
-  "publishedAt": "2026-07-22T19:07:26Z",
-  "downloadUrl": "https://github.com/dahsameer/litter/releases/download/v0.7.0/litter_0.7.0_5.apk",
-  "apkSize": 2716968,
-  "releaseNotes": "added login\r\nadded authenticated features\r\nmodified user profile\r\nbetter story details\r\nenhanced reading screen",
-  "sha256": "2d8d6a650979eb31fe1d4053dc57299726d91218061e744791bac487d884af9c"
+  "publishedAt": "2026-07-23T10:09:58Z",
+  "downloadUrl": "https://github.com/dahsameer/litter/releases/download/v0.8.0/litter_0.8.0_6.apk",
+  "apkSize": 2749736,
+  "releaseNotes": "- Changed Home Screen\r\n- Share URL\r\n- Open URL in app\r\n- More detailed category pagination\r\n- Next/Previous Stories in series button",
+  "sha256": "68a6b7143185424c14c3b3159347a09c879c018947ff834058ec657eef2d5192"
 }
