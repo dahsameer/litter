@@ -1,11 +1,11 @@
 {
-  "version": "0.8.0",
-  "versionCode": 6,
-  "minimumVersionCode": 5,
+  "version": "1.0.0",
+  "versionCode": 7,
+  "minimumVersionCode": 6,
   "forceUpdate": false,
-  "publishedAt": "2026-07-23T10:09:58Z",
-  "downloadUrl": "https://github.com/dahsameer/litter/releases/download/v0.8.0/litter_0.8.0_6.apk",
-  "apkSize": 2749736,
-  "releaseNotes": "- Changed Home Screen\r\n- Share URL\r\n- Open URL in app\r\n- More detailed category pagination\r\n- Next/Previous Stories in series button",
-  "sha256": "68a6b7143185424c14c3b3159347a09c879c018947ff834058ec657eef2d5192"
+  "publishedAt": "2026-07-23T19:48:55Z",
+  "downloadUrl": "https://github.com/dahsameer/litter/releases/download/v1.0.0/litter_1.0.0_7.apk",
+  "apkSize": 3376978,
+  "releaseNotes": "- List management support added\r\n- Audio stories support added\r\n- Illustrations support added",
+  "sha256": "eb04c879d751b6b11e41ef45ab0248fc605a1a055b4beb852ced8f2ac7c5fdea"
 }

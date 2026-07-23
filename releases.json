@@ -1,5 +1,16 @@
 [
   {
+    "version": "0.8.0",
+    "versionCode": 6,
+    "publishedAt": "2026-07-23T10:09:58Z",
+    "downloadUrl": "https://github.com/dahsameer/litter/releases/download/v0.8.0/litter_0.8.0_6.apk",
+    "releaseNotes": "- Changed Home Screen\r\n- Share URL\r\n- Open URL in app\r\n- More detailed category pagination\r\n- Next/Previous Stories in series button",
+    "apkSize": 2749736,
+    "prerelease": false,
+    "draft": false,
+    "sha256": "68a6b7143185424c14c3b3159347a09c879c018947ff834058ec657eef2d5192"
+  },
+  {
     "version": "0.7.0",
     "versionCode": 5,
     "publishedAt": "2026-07-22T19:07:26Z",
